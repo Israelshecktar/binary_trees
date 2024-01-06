@@ -35,3 +35,13 @@ The code is compiled on Ubuntu 20.04 LTS using the following GCC flags: `-Wall -
 
 The project includes various functions that can be used to interact with binary tree data structures. Example usage is as follows:
 
+
+## Contributing
+
+Contributions to the Binary Trees Project are welcome. If you have suggestions for improvement or want to report a bug, please open an issue or submit a pull request.
+
+## License
+
+This project is open-source and available under the MIT License. See the LICENSE file in this repository for more information.
+
+
