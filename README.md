@@ -38,7 +38,7 @@ The project includes various functions that can be used to interact with binary 
 
 ## Contributing
 
-Contributions to the Binary Trees Project are welcome. If you have suggestions for improvement or want to report a bug, please open an issue or submit a pull request.
+
 
 ## License
 
